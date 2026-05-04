@@ -1,2 +1,0 @@
-# Micro-Goals
-micro-goals
